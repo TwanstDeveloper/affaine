@@ -1,0 +1,7 @@
+C:\Users\sha pc\source\repos\affaine\affaine\bin\Debug\affaine.exe.config
+C:\Users\sha pc\source\repos\affaine\affaine\bin\Debug\affaine.exe
+C:\Users\sha pc\source\repos\affaine\affaine\bin\Debug\affaine.pdb
+C:\Users\sha pc\source\repos\affaine\affaine\obj\Debug\affaine.csproj.AssemblyReference.cache
+C:\Users\sha pc\source\repos\affaine\affaine\obj\Debug\affaine.csproj.CoreCompileInputs.cache
+C:\Users\sha pc\source\repos\affaine\affaine\obj\Debug\affaine.exe
+C:\Users\sha pc\source\repos\affaine\affaine\obj\Debug\affaine.pdb
